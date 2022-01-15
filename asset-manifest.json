@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5ecd60fb.chunk.css",
+    "main.js": "./static/js/main.9d139a1e.chunk.js",
+    "main.js.map": "./static/js/main.9d139a1e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.48af8a90.js",
+    "runtime-main.js.map": "./static/js/runtime-main.48af8a90.js.map",
+    "static/js/2.0a4d08e5.chunk.js": "./static/js/2.0a4d08e5.chunk.js",
+    "static/js/2.0a4d08e5.chunk.js.map": "./static/js/2.0a4d08e5.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.d31198eeebb4349bf328c2f8c8885780.js": "./precache-manifest.d31198eeebb4349bf328c2f8c8885780.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "./static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.0a4d08e5.chunk.js.LICENSE.txt": "./static/js/2.0a4d08e5.chunk.js.LICENSE.txt",
+    "static/media/triangle_grid_blue.jpg": "./static/media/triangle_grid_blue.d83229f5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48af8a90.js",
+    "static/js/2.0a4d08e5.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.9d139a1e.chunk.js"
+  ]
+}
